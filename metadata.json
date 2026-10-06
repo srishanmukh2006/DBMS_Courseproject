@@ -1,0 +1,6 @@
+{
+  "name": "ChronosDBMS — Employee Attendance, Shift & Leave Management System",
+  "description": "Full-stack Database Management System (Node.js, Express, MySQL2 & React) for managing departments, employees, shifts, shift assignments, daily attendance, leave types, leave requests, and analytical SQL reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
